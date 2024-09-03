@@ -1,5 +1,5 @@
 # Projeto de Saúde Mental para Estudantes
-- Projeto realizado na disciplina de Projeto Integrado de Software da universidade PUC-Rio
+Projeto realizado na disciplina de Projeto Integrado de Software da universidade PUC-Rio.
   
 # Introdução 
 - Em 2019, quase 1 Bilhão de pessoas viviam com transtorno mental. 
