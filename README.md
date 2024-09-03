@@ -17,9 +17,9 @@ Acompanhamento psicológico pessoal de cada estudante.
 Machine Learning que prevê a possibilidade de um estudante ter uma doença mental.
 
 # Machine Learning
-1. Benefícios : 
-  - Solução Econômica;
-  - Acompanhamento psicológico especializado.
+1. Benefícios: 
+    - Solução Econômica;
+    - Acompanhamento psicológico especializado.
 
 2. Modelo Escolhido:
    - Modelo Gaussian Naive Bayes;
